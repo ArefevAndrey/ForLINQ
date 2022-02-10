@@ -1,0 +1,5 @@
+C:\Users\Андрей Арефьев\source\repos\ForLINQ\ForLINQ\obj\Debug\netcoreapp3.1\ForLINQ.csproj.AssemblyReference.cache
+C:\Users\Андрей Арефьев\source\repos\ForLINQ\ForLINQ\obj\Debug\netcoreapp3.1\ForLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей Арефьев\source\repos\ForLINQ\ForLINQ\obj\Debug\netcoreapp3.1\ForLINQ.AssemblyInfoInputs.cache
+C:\Users\Андрей Арефьев\source\repos\ForLINQ\ForLINQ\obj\Debug\netcoreapp3.1\ForLINQ.AssemblyInfo.cs
+C:\Users\Андрей Арефьев\source\repos\ForLINQ\ForLINQ\obj\Debug\netcoreapp3.1\ForLINQ.csproj.CoreCompileInputs.cache
